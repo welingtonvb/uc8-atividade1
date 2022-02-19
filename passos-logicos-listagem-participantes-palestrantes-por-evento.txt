@@ -1,0 +1,8 @@
+INICIO
+Fazer com que o programação execute o menu iniciar
+Escolher entre a opcao 1 - cadastrar no evento ou 2 - imprimir listagem por evento
+Fazer com que o programação gere a listagem de participantes e palestrantes por evento
+Apresentar a listagem
+Fazer com que o programação execute o menu iniciar
+Escolher entre a opcao 100 para sair do programa
+FIM
