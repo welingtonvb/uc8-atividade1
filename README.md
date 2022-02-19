@@ -4,7 +4,9 @@ Atividade 1 do modulo uc8 : Sistema de Cadastro de Eventos.
 
 Fluxograma criado na ferramenta on-line draw.io
 
-Link : https://app.diagrams.net/
+Link ferramenta : https://app.diagrams.net/
+
+Link trello : https://trello.com/b/rtxgmNTx/sce
 
 -----------------------------------------------------------
 
