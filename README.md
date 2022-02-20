@@ -71,6 +71,11 @@ Fazer com que o programação execute o menu iniciar
 Escolher entre a opcao 100 para sair do programa
 
 FIM
+-----------------------------------------------------------
+
+Fluxograma corrigido e atualizado
+
+-----------------------------------------------------------
 
 
 
